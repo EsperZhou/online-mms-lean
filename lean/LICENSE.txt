@@ -1,0 +1,5 @@
+Copyright © 2026 Zheyu Zhou. All rights reserved.
+
+This notice covers the author's source files and documentation in this archive.
+The external dependencies identified in lake-manifest.json are distributed
+under their respective licenses.
